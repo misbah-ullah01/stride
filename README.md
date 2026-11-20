@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/misbah-ullah01/giki-transitpulse/releases/latest">
-    <img src="https://github.com/user-attachments/assets/f8ba9971-d222-47b0-a5b2-5747fbf433e2" alt="Stride Logo" width="110" />
+    <img src="https://github.com/user-attachments/assets/8d0db23e-46e6-4187-a0a9-298cc8df1510" alt="Stride Logo" width="110" />
   </a>
 </p>
 
