@@ -35,8 +35,8 @@
 
 ## Quick Start
 
-1. Download **`stride.exe`** from the [Latest Release](https://github.com/misbah-ullah01/giki-transitpulse/releases/latest).
-2. Double-click `stride.exe` and choose **Install to C: Drive & Launch** (or **Run Portable Once**).
+1. Download **`stride_installer.exe`** from the [Latest Release](https://github.com/misbah-ullah01/giki-transitpulse/releases/latest).
+2. Double-click `stride_installer.exe` and choose **Install to C: Drive & Launch** (or **Run Portable Once**).
 3. Sign in with your GIKI reg number (e.g. `2024297`) or `@giki.edu.pk` email.
 
 *(Optional: launch with `stride.exe --cli` to use the terminal shell mode.)*
