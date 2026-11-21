@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/misbah-ullah01/giki-transitpulse/releases/latest">
-    <img src="https://img.shields.io/badge/Download-stride.exe-ADFF2F?style=for-the-badge&logoColor=000000" alt="Download stride.exe" />
+    <img src="https://img.shields.io/badge/Download-stride.exe-ADFF2F?style=for-the-badge&logoColor=000000" alt="Download stride_installer.exe" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows_10%2F11-09090B?style=for-the-badge" alt="Windows" />
 </p>
